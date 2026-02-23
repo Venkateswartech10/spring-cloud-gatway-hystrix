@@ -10,6 +10,13 @@
 <img width="940" height="465" alt="image" src="https://github.com/user-attachments/assets/29036f09-06a9-4c1a-a225-4617c79a409d" />
 
 
+Sleuth & ZIPKIN
+
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/655f4876-1a81-449f-bee5-b02a627d4901" />
+
+<img width="940" height="376" alt="image" src="https://github.com/user-attachments/assets/9c36346a-3829-43e1-b37b-58c9288300b6" />
+
+
 
 
 
